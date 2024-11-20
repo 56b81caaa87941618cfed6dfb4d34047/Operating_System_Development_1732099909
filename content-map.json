@@ -1,0 +1,23 @@
+{
+    "name": "example",
+    "prefix": "%#PLACEHOLDER",
+    "placeholderMappings": {
+        "Header": [
+            "APPLICATION_NAME"
+        ],
+        "Hero": [
+            "HERO_HEADING_TEXT",
+            "HERO_SUBHEADING_TEXT"
+        ],
+        "Footer": [
+            "APPLICATION_NAME",
+            "FOOTER_TEXT"
+        ]
+    },
+    "placeholders": {
+        "APPLICATION_NAME": "WindowsConnect",
+        "HERO_HEADING_TEXT": "Experience the Power of Windows",
+        "HERO_SUBHEADING_TEXT": "Your gateway to seamless productivity, creativity, and connectivity",
+        "FOOTER_TEXT": "\u00a9 2023 WindowsConnect. All rights reserved. Microsoft and Windows are trademarks of Microsoft Corporation."
+    }
+}
