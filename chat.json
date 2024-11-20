@@ -124,5 +124,15 @@
         "source": "base_assistant",
         "content": "I have added a blurry sketch of a pear to the background of the Hero component. Anything else you need?",
         "metadata": {}
+    },
+    {
+        "id": "c0d4a163-e597-4b8a-bdbe-90119e55d69e",
+        "timestamp": "2024-11-20T11:04:36.473743Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "yes, I want you to add a forms to select your prefered type of fruit",
+        "metadata": {
+            "component_id": "Hero1732099912"
+        }
     }
 ]
