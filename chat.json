@@ -73,5 +73,15 @@
         "source": "base_assistant",
         "content": "The image of an apple has been added to the background of the Hero component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "4a092b22-ae5a-430a-9142-49bc17665ded",
+        "timestamp": "2024-11-20T11:03:15.858762Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "add a pear skeatch and blurry as background",
+        "metadata": {
+            "component_id": "Hero1732099912"
+        }
     }
 ]
