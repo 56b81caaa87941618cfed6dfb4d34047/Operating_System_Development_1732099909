@@ -32,5 +32,20 @@
         "metadata": {
             "component_id": "Hero1732099912"
         }
+    },
+    {
+        "id": "a06e6e65-7a84-4591-ab2e-4dbc224ac3ac",
+        "timestamp": "2024-11-20T10:57:01.248614Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_Kk7vCyynS6CmH2lWER7QCoBv",
+            "function": {
+                "arguments": "{\"component_id\":\"Hero1732099912\",\"image_gen_prompt\":\"an apple\",\"placement_instructions\":\"set as the background image\",\"acknowledgement_message\":\"Adding an image of an apple to the background of the Hero component...\"}",
+                "name": "GenerateImageAndPlaceInComponent"
+            },
+            "type": "function"
+        }
     }
 ]
