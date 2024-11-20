@@ -203,5 +203,13 @@
         "metadata": {
             "component_id": "Hero1732099912"
         }
+    },
+    {
+        "id": "8cbd808b-4747-499d-ab4c-a0de6aa80b4d",
+        "timestamp": "2024-11-20T11:07:13.842334Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "Please drag and drop a Form component from the \"Components\" tab into your canvas. Once it's added, I can help you modify it to include options for choosing between apples and pears.",
+        "metadata": {}
     }
 ]
