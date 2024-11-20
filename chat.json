@@ -185,5 +185,13 @@
         "metadata": {
             "tool_call_id": "call_n8poNGIXgEb9nyU4esAA2qu0"
         }
+    },
+    {
+        "id": "047d0af8-41ea-4821-a6e8-5bd23cf03845",
+        "timestamp": "2024-11-20T11:06:48.439688Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "A small apple image has been added to the left side of the Hero component. What would you like to do next?",
+        "metadata": {}
     }
 ]
