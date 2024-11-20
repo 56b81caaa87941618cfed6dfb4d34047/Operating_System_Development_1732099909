@@ -152,5 +152,20 @@
         "metadata": {
             "component_id": "Hero1732099912"
         }
+    },
+    {
+        "id": "ecf699ce-22d0-4dfa-bb48-ea89d46abaf8",
+        "timestamp": "2024-11-20T11:06:27.883720Z",
+        "role": "tool_call",
+        "source": "base_assistant",
+        "content": null,
+        "metadata": {
+            "id": "call_n8poNGIXgEb9nyU4esAA2qu0",
+            "function": {
+                "arguments": "{\"component_id\":\"Hero1732099912\",\"image_gen_prompt\":\"a small apple\",\"placement_instructions\":\"place on the left side of the Hero component\",\"acknowledgement_message\":\"Adding a small apple image to the left side of the Hero component...\"}",
+                "name": "GenerateImageAndPlaceInComponent"
+            },
+            "type": "function"
+        }
     }
 ]
