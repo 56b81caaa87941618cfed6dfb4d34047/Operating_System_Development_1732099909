@@ -65,5 +65,13 @@
         "metadata": {
             "tool_call_id": "call_Kk7vCyynS6CmH2lWER7QCoBv"
         }
+    },
+    {
+        "id": "8a28a24f-e086-4495-bab2-a6d7e83acc40",
+        "timestamp": "2024-11-20T10:57:23.000232Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The image of an apple has been added to the background of the Hero component. What would you like to do next?",
+        "metadata": {}
     }
 ]
