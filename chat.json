@@ -280,5 +280,15 @@
         "source": "base_assistant",
         "content": "The title \"WIIIW\" has already been added to the Hero component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "63564da6-0d63-4fa4-a9c4-51de1ffe64a4",
+        "timestamp": "2024-11-20T11:08:54.606582Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want here a title that says \"WIIIW\"",
+        "metadata": {
+            "component_id": "Footer1732099912"
+        }
     }
 ]
