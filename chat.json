@@ -262,5 +262,15 @@
         "source": "base_assistant",
         "content": "I have added a title that says \"WIIIW\" to the Hero component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "b0a72e65-3c89-4349-b9bc-650055f37b9b",
+        "timestamp": "2024-11-20T11:08:41.294474Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want here a title that says \"WIIIW\"",
+        "metadata": {
+            "component_id": "Header1732099912"
+        }
     }
 ]
