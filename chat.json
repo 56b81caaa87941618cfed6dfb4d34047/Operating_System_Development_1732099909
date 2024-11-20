@@ -142,5 +142,15 @@
         "source": "base_assistant",
         "content": "To add a form to select the preferred type of fruit, go to the \"Components\" tab in the MakeInfinite studio and drag and drop a Form component into your canvas. Once the form component is added, I can help you modify it if needed.",
         "metadata": {}
+    },
+    {
+        "id": "77a3a703-2c41-42ad-b25f-3b00e8917441",
+        "timestamp": "2024-11-20T11:06:23.957657Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "better, add an image of an small apple on the left of the component",
+        "metadata": {
+            "component_id": "Hero1732099912"
+        }
     }
 ]
