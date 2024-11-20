@@ -400,5 +400,15 @@
         "source": "base_assistant",
         "content": "The title has been updated to \"WIeeW\" in the Hero component. Anything else you need?",
         "metadata": {}
+    },
+    {
+        "id": "e81a8e8e-4d00-4c92-9ab6-c8d0a5b758cf",
+        "timestamp": "2024-11-20T11:18:38.680394Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want a new title \"MAGNIFIC\"",
+        "metadata": {
+            "component_id": "Header1732099912"
+        }
     }
 ]
