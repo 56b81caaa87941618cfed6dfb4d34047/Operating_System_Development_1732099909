@@ -272,5 +272,13 @@
         "metadata": {
             "component_id": "Header1732099912"
         }
+    },
+    {
+        "id": "1a3ad8c0-ee11-47a7-9479-26f7f2f3ad80",
+        "timestamp": "2024-11-20T11:08:47.397947Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "The title \"WIIIW\" has already been added to the Hero component. What would you like to do next?",
+        "metadata": {}
     }
 ]
