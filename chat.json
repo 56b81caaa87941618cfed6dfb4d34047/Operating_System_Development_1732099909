@@ -22,5 +22,15 @@
         "source": "base_assistant",
         "content": "I can't add or edit the background directly, but I can place an image within a specific component. Would you like me to add the apple image to the Hero, Header, or Footer component?",
         "metadata": {}
+    },
+    {
+        "id": "e17f0ce8-4a63-40d8-9032-75f9444d8959",
+        "timestamp": "2024-11-20T10:56:57.206793Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want you to put an image of an apple in the backgroun",
+        "metadata": {
+            "component_id": "Hero1732099912"
+        }
     }
 ]
