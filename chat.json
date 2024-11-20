@@ -451,5 +451,15 @@
         "source": "base_assistant",
         "content": "The new title \"MAGNIFIC\" has been added to the Hero component. What would you like to do next?",
         "metadata": {}
+    },
+    {
+        "id": "47ec1915-8d23-4350-99ff-76d517f9e3eb",
+        "timestamp": "2024-11-20T11:19:28.471230Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "I want a copy that says \"good bye\"",
+        "metadata": {
+            "component_id": "Footer1732099912"
+        }
     }
 ]
