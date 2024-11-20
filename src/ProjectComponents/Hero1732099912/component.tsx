@@ -13,6 +13,7 @@ const Hero: React.FC = () => {
           <h1 className="text-6xl font-bold mb-6 text-center md:text-left">WIeeW</h1>
           <h1 className="text-4xl font-bold mb-4">Experience the Power of Windows</h1>
           <p className="text-xl mb-6">Your gateway to seamless productivity, creativity, and connectivity</p>
+          <p className="text-xl mb-6">Good bye</p>
         </div>
       </div>
     </div>
