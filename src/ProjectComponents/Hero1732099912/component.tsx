@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
           <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Operating_System_Development_1732099909/main/src/assets/images/19c50c8dd2f248cbbf1cd1825cb225de.jpeg" alt="Hero" className="w-full h-auto rounded-lg shadow-md" />
         </div>
         <div className="md:w-1/2 md:pl-8">
-          <h1 className="text-6xl font-bold mb-6 text-center md:text-left">WIIIS</h1>
+          <h1 className="text-6xl font-bold mb-6 text-center md:text-left">WIeeW</h1>
           <h1 className="text-4xl font-bold mb-4">Experience the Power of Windows</h1>
           <p className="text-xl mb-6">Your gateway to seamless productivity, creativity, and connectivity</p>
         </div>
